@@ -19,8 +19,8 @@
 	<script type="text/javascript" src="/inc/js/jquery.cycle.min.js"></script>
 	<script src="/inc/js/superfish.js" type="text/javascript"></script>
 	
-	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.min.css" />
-<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.min.css?v=2.1.5" />
+<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.min.js?v=2.1.5"></script>
 	
 	<script type="text/javascript" src="/inc/js/fonts.js"></script>
 	<script type="text/javascript" src="/inc/js/core.js"></script>
@@ -35,16 +35,15 @@
 	
 <ul id="lang_badge">
 		<li>
-						<a href="/"><span class="flag flag-en"></span> </a>
-	<!---						<a href="/"><span class="flag flag-en"></span> <i class="fa fa-chevron-down"></i></a>
-					<ul>
+						<a href="/"><span class="flag flag-en"></span> <i class="fa fa-chevron-down"></i></a>
+						<ul>
 							<li><a href="/en"><span class="flag flag-en"></span> English</a></li>
 <li><a href="/lv"><span class="flag flag-lv"></span> Latvian</a></li>
 <li><a href="/ro"><span class="flag flag-ro"></span> Romanian</a></li>
 <li><a href="/pl"><span class="flag flag-pl"></span> Polish</a></li>
 <li><a href="/ru"><span class="flag flag-ru"></span> Russian</a></li>
 <li><a href="/ukr"><span class="flag flag-ukr"></span> Ukrainian</a></li>
-						</ul>  -->
+						</ul>
 		</li>
 </ul>
 
@@ -52,13 +51,13 @@
 
 <div id="wrapper">
 <div id="all">
-	<div id="logo"><a href="http://asenterinvest.com"><img src="/media/elem/logo.png" style="margin:20px 0px;"/></a></div>
+	<div id="logo"><a href="http://www.ukclothingcaravan.co.uk"><img src="/media/elem/logo.png" style="margin:20px 0px;"/></a></div>
 	<div id="container">
 		<div id="menu" class="clearfix">
 		<ul >
-<li class="firstm"  id="selected"><a  href="http://asenterinvest.com/">Home</a></li>
+<li class="firstm" ><a  href="http://asenterinvest.com/">Home</a></li>
 <li  ><a  href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li>
-<li  ><a  href="http://asenterinvest.com/terms">Terms </a></li>
+<li   id="selected"><a  href="http://asenterinvest.com/terms">Terms </a></li>
 <li  ><a  href="http://asenterinvest.com/gallery">Gallery</a></li>
 <li  ><a  href="http://asenterinvest.com/contact-us">Contact us</a></li>
 </ul>
@@ -71,74 +70,56 @@
 
 
 
-			<div id="slideshow">
-				<!--<div id="slideshow_image_descr"></div>-->
-
-			<div class="cs_ss" id="case_study_slideshow">
-				<img src="/inc/img2/media/u/IMG_3.jpg" width="940" height="500"/>
-<img src="/inc/img2/media/u/IMG.jpg" width="940" height="500"/>
-
-			</div>
-			<div id="csnav"></div>
-			
-
-
-		</div>
 
 
 
+<div class="events trans-overlay" id="static"><div class="static_inner" id="page_terms">
+<h1 class="graphic">Terms </h1><p><strong>PAYMENTS</strong></p>
 
-		<div id="mid_list" class="clearfix">
-		
-		</div>
-
-		<div id="frontpage_article">
-			<h2>Welcome to UK Clothing Caravan</h2>
-
-<h3>&ldquo;EXCELLENCE IN SECOND HAND CLOTHES&nbsp;ON TIME, EVERY TIME&rdquo;</h3>
+<p>50% deposit is required to confirm your order. The final 50% to be paid before loading or on the loading day. All sales are final. We accept bank transfers or cash payments</p>
 
 <p>&nbsp;</p>
 
-<p><strong>ABOUT US</strong></p>
+<p><strong>VAT RULES</strong></p>
 
-<p>Asenter Invest is committed to running a&nbsp;socially responsible business. We are quickly&nbsp;establishing ourselves as the ultimate reference in the UK&rsquo;s Textile Reuse industry. We operate various clothing collection schemes aimed at&nbsp;diverting&nbsp;unwanted clothing&nbsp;from UK landfill for the purpose of reuse.</p>
+<p>Any sale to a UK company or individual is subject to 20% VAT<br />
+(VAT registered UK companies or individuals can claim back VAT)</p>
 
-<p>Today we are recognised&nbsp;as one of the UK&rsquo;s leading suppliers of quality second hand clothing&nbsp;with a strong presence in the European market.</p>
+<p>Any sale to an EU company or individual is subject to 20% VAT*<br />
+(VAT registered EU companies or individuals can claim back VAT)</p>
+
+<p><u>*VAT is not charged if an EU company can supply a &ldquo;Verified&rdquo; EU VAT number</u><br />
+(Must supply proof of export)</p>
+
+<p>Any sale to Non-EU Company or individual is NOT subject to VAT<br />
+(Must supply proof of export)</p>
 
 <p>&nbsp;</p>
 
-<p><strong>OUR SPECIALITY</strong></p>
+<p><strong>ORDERS</strong></p>
 
-<p>The clothing includes a mix of Ladies, Menswear, Kids, Shoes in pairs, Fashion Accessories, Bedlinen, Soft toys, Cosmetics and Toiletries. Our company specialises in Unsorted Original second hand clothing and Bric-a-brac.</p>
+<p>We do not allow customers to select their own goods in person.<br />
+You are welcome to come and view the goods. Viewings by appointment only</p>
 
 <p>&nbsp;</p>
 
-<p><strong>OUR QUALITY</strong></p>
+<p><strong>TRANSPORTATION</strong></p>
 
-<p>We pride ourselves on the genuine quality of product we offer. Our customers can be assured the quality of our Unsorted Original is constantly maintained to the highest standards. We remove all wet/soiled/damaged items to ensure that we meet our customers&rsquo; expectations.</p>
-		</div>
-		<!--
-		<div id="f_blurb" class="graphic">CHECK FOR THE NEAREST CASH FOR CLOTHES CENTRE</div>
-		<div id="f_buttons">
+<p>The buyer is responsible for transport arrangements</p>
 
-			<ul >
-<li class="first" ><a class="arrow green" href="http://asenterinvest.com/peterborough">Peterborough</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/nottingham">Nottingham</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/london">London</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/glasgow">Glasgow</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/newcastle">Newcastle</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/liverpool">Liverpool</a></li>
-<li  ><a class="arrow green" href="http://asenterinvest.com/all-branches">All branches</a></li>
-</ul>
-
-		</div>
-
-		-->
+<p>&nbsp;</p>
+</div></div>
 <!--end container_inner-->
 		
 		
 	</div>
 	
+	<div id="onefuzz">
+		<a title="Web projects in London" href="http://www.onefuzz.com" target="_BLANK"><img border="0" width="102" height="7" src="/media/elem/onefuzz.png" alt="Web projects in London" class="onefuzz" /></a></div>
+		</div>
+	
+
+
 </div>
 </div>
 
@@ -162,3 +143,4 @@
 </body>
 
 </html>
+

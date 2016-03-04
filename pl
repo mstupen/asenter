@@ -19,8 +19,8 @@
 	<script type="text/javascript" src="/inc/js/jquery.cycle.min.js"></script>
 	<script src="/inc/js/superfish.js" type="text/javascript"></script>
 	
-	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.min.css" />
-<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.min.css?v=2.1.5" />
+<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.min.js?v=2.1.5"></script>
 	
 	<script type="text/javascript" src="/inc/js/fonts.js"></script>
 	<script type="text/javascript" src="/inc/js/core.js"></script>
@@ -35,16 +35,15 @@
 	
 <ul id="lang_badge">
 		<li>
-						<a href="/"><span class="flag flag-en"></span> </a>
-	<!---						<a href="/"><span class="flag flag-en"></span> <i class="fa fa-chevron-down"></i></a>
-					<ul>
+						<a href="/"><span class="flag flag-pl"></span> <i class="fa fa-chevron-down"></i></a>
+						<ul>
 							<li><a href="/en"><span class="flag flag-en"></span> English</a></li>
 <li><a href="/lv"><span class="flag flag-lv"></span> Latvian</a></li>
 <li><a href="/ro"><span class="flag flag-ro"></span> Romanian</a></li>
 <li><a href="/pl"><span class="flag flag-pl"></span> Polish</a></li>
 <li><a href="/ru"><span class="flag flag-ru"></span> Russian</a></li>
 <li><a href="/ukr"><span class="flag flag-ukr"></span> Ukrainian</a></li>
-						</ul>  -->
+						</ul>
 		</li>
 </ul>
 
@@ -52,15 +51,10 @@
 
 <div id="wrapper">
 <div id="all">
-	<div id="logo"><a href="http://asenterinvest.com"><img src="/media/elem/logo.png" style="margin:20px 0px;"/></a></div>
+	<div id="logo"><a href="http://www.ukclothingcaravan.co.uk"><img src="/media/elem/logo.png" style="margin:20px 0px;"/></a></div>
 	<div id="container">
 		<div id="menu" class="clearfix">
 		<ul >
-<li class="firstm"  id="selected"><a  href="http://asenterinvest.com/">Home</a></li>
-<li  ><a  href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li>
-<li  ><a  href="http://asenterinvest.com/terms">Terms </a></li>
-<li  ><a  href="http://asenterinvest.com/gallery">Gallery</a></li>
-<li  ><a  href="http://asenterinvest.com/contact-us">Contact us</a></li>
 </ul>
 		</div>
 		<div id="container_inner" class="clearfix">
@@ -93,29 +87,83 @@
 		</div>
 
 		<div id="frontpage_article">
-			<h2>Welcome to UK Clothing Caravan</h2>
+			<h2 style="text-align: center;">Witajcie w UK Clothing Caravan Ltd.</h2>
 
-<h3>&ldquo;EXCELLENCE IN SECOND HAND CLOTHES&nbsp;ON TIME, EVERY TIME&rdquo;</h3>
-
-<p>&nbsp;</p>
-
-<p><strong>ABOUT US</strong></p>
-
-<p>Asenter Invest is committed to running a&nbsp;socially responsible business. We are quickly&nbsp;establishing ourselves as the ultimate reference in the UK&rsquo;s Textile Reuse industry. We operate various clothing collection schemes aimed at&nbsp;diverting&nbsp;unwanted clothing&nbsp;from UK landfill for the purpose of reuse.</p>
-
-<p>Today we are recognised&nbsp;as one of the UK&rsquo;s leading suppliers of quality second hand clothing&nbsp;with a strong presence in the European market.</p>
+<h3 style="text-align: center;">&bdquo;DOSKONAŁOŚĆ W BRANŻY ODZIEŻY UŻYWANEJ. ZAWSZE NA CZAS&rdquo;</h3>
 
 <p>&nbsp;</p>
 
-<p><strong>OUR SPECIALITY</strong></p>
+<p><strong>O NAS</strong></p>
 
-<p>The clothing includes a mix of Ladies, Menswear, Kids, Shoes in pairs, Fashion Accessories, Bedlinen, Soft toys, Cosmetics and Toiletries. Our company specialises in Unsorted Original second hand clothing and Bric-a-brac.</p>
+<p>Z roku na rok UK Clothing Caravan Ltd. umacnia swoją pozycję w branży recyklingu materiałów włókienniczych w Wielkiej Brytanii. Działamy w zakresie zbiórek różnych ubrań na terenie całego Zjednoczonego Królestwa.&nbsp;Dziś jesteśmy uznawani za jednego z brytyjskich liderów dostarczających wysokiej jakości odzież używaną, o silnej obecności na rynku europejskim.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>OUR QUALITY</strong></p>
+<p><strong>NASZA SPECJALNOŚĆ</strong></p>
 
-<p>We pride ourselves on the genuine quality of product we offer. Our customers can be assured the quality of our Unsorted Original is constantly maintained to the highest standards. We remove all wet/soiled/damaged items to ensure that we meet our customers&rsquo; expectations.</p>
+<p>Ubrania to między innymi mix odzieży kobiecej, męskiej, dziecięcej, par butów, stylowe dodatki, pościel, pluszowe zabawki, kosmetyki i artykuły toaletowe. Nasza firma specjalizuje się w niesortowanej oryginalnej odzieży używanej i artykułach domowych.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>NASZA JAKOŚĆ</strong></p>
+
+<p>Jesteśmy dumni mogąc oferować produkty autentycznej jakości. Nasi klienci mogą być pewni, że jakość naszych niesortowanych oryginalnych ubrań jest stale na najwyższym poziomie. By spełnić oczekiwania naszych klientów, usuwamy mokre/zabrudzone/zniszczone przedmioty.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PŁATNOŚCI</strong></p>
+
+<p>Wymagane jest 50% zaliczki, by potwierdzić zamówienie. Drugie 50% należy wpłacić przed załadunkiem lub w dniu załadunku. Wszystkie transakcje kupna są ostateczne. Akceptujemy płatności przelewem i gotówką.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>ZASADY DOTYCZĄCE VAT</strong></p>
+
+<p>Każda sprzedaż na rzecz firmy z siedzibą w Zjednoczonym Królestwie bądź osoby prywatnej podlega 20% stawce VAT.</p>
+
+<p>(Płatnicy podatkowi zarejestrowani w Zjednoczonym Królestwie i osoby prywatne mogą wystąpić o zwrot podatku VAT)</p>
+
+<p><span style="line-height: 1.6em;">Każda sprzedaż na rzecz firmy z siedzibą w Unii Europejskiej bądź osoby prywatnej podlega 20% stawce VAT*.</span></p>
+
+<p>(Płatnicy podatkowi zarejestrowani w Unii Europejskiej i osoby prywatne mogą wystąpić o zwrot podatku VAT)</p>
+
+<p><u>*VAT nie jest naliczany jeżeli firma zarejestrowana w Unii Europejskiej może dostarczyć &bdquo;zweryfikowany&rdquo; unijny numer VAT</u>.</p>
+
+<p>(Należy dostarczyć dowód eksportu)</p>
+
+<p>Każda sprzedaż na rzecz firmy z siedzibą poza Unią Europejską bądź osoby prywatnej NIE podlega VAT.</p>
+
+<p>(Należy dostarczyć dowód eksportu)</p>
+
+<p>&nbsp;</p>
+
+<p><strong>ZAMÓWIENIA</strong></p>
+
+<p>Klienci nie mają możliwości wyboru towarów.&nbsp;Można przyjść i zobaczyć towar tylko po wcześniejszym uzgodnieniu.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>TRANSPORT</strong></p>
+
+<p>Kupujący jest odpowiedzialny za organizację transportu.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>KONTAKT</strong></p>
+
+<p>Prosimy poinformować nas o swoich wymaganiach, a my zrobimy wszystko co w naszej mocy, by spełnić Państwa oczekiwania.&nbsp;Prosimy o kontakt w sprawie cen, wizyt i innych zapytań.</p>
+
+<p>Telefon: +44(0)1708 685 079</p>
+
+<p>E-mail: <a href="mailto:info@ukclothingcaravan.co.uk">info@ukclothingcaravan.co.uk</a></p>
+
+<p>Viber: + 44(0)7795 190 503</p>
+
+<p>Twitter: @UKClothingCarav</p>
+
+<p>Facebook: ukclothingcaravan</p>
+
+<p>&nbsp;</p>
 		</div>
 		<!--
 		<div id="f_blurb" class="graphic">CHECK FOR THE NEAREST CASH FOR CLOTHES CENTRE</div>
@@ -139,6 +187,12 @@
 		
 	</div>
 	
+	<div id="onefuzz">
+		<a title="Web projects in London" href="http://www.onefuzz.com" target="_BLANK"><img border="0" width="102" height="7" src="/media/elem/onefuzz.png" alt="Web projects in London" class="onefuzz" /></a></div>
+		</div>
+	
+
+
 </div>
 </div>
 
@@ -162,3 +216,4 @@
 </body>
 
 </html>
+
