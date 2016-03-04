@@ -9,7 +9,7 @@
 
 	<meta name="google-site-verification" content="kvOMSFeAJaD6F9WHDAC8FXFe7-yWRDeSVg0GZAtcx4g" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>UK Clothing Caravan</title>
+	<title>Asenter Invest</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	
 	
@@ -51,7 +51,7 @@
 
 <div id="wrapper">
 <div id="all">
-	<div id="logo"><a href="http://www.ukclothingcaravan.co.uk"><img src="/media/elem/logo.png" style="margin:20px 0px;"/></a></div>
+	<div id="logo"><a href="http://www.ukclothingcaravan.co.uk"><img src="/media/elem/logo.png"/></a></div>
 	<div id="container">
 		<div id="menu" class="clearfix">
 		<ul >
