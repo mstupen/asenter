@@ -87,7 +87,7 @@
 		</div>
 
 		<div id="frontpage_article">
-			<h2 style="text-align: center;">Witajcie w UK Clothing Caravan Ltd.</h2>
+			<h2 style="text-align: center;">Witajcie w Asenter Invest</h2>
 
 <h3 style="text-align: center;">&bdquo;DOSKONAŁOŚĆ W BRANŻY ODZIEŻY UŻYWANEJ. ZAWSZE NA CZAS&rdquo;</h3>
 
@@ -95,7 +95,7 @@
 
 <p><strong>O NAS</strong></p>
 
-<p>Z roku na rok UK Clothing Caravan Ltd. umacnia swoją pozycję w branży recyklingu materiałów włókienniczych w Wielkiej Brytanii. Działamy w zakresie zbiórek różnych ubrań na terenie całego Zjednoczonego Królestwa.&nbsp;Dziś jesteśmy uznawani za jednego z brytyjskich liderów dostarczających wysokiej jakości odzież używaną, o silnej obecności na rynku europejskim.</p>
+<p>Z roku na rok Asenter Invest umacnia swoją pozycję w branży recyklingu materiałów włókienniczych w Wielkiej Brytanii. Działamy w zakresie zbiórek różnych ubrań na terenie całego Zjednoczonego Królestwa.&nbsp;Dziś jesteśmy uznawani za jednego z brytyjskich liderów dostarczających wysokiej jakości odzież używaną, o silnej obecności na rynku europejskim.</p>
 
 <p>&nbsp;</p>
 

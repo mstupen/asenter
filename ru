@@ -87,7 +87,7 @@
 		</div>
 
 		<div id="frontpage_article">
-			<h2 style="text-align: center;">Добро пожаловать в UK Clothing Caravan Ltd.</h2>
+			<h2 style="text-align: center;">Добро пожаловать в Asenter Invest</h2>
 
 <h3 style="text-align: center;">&nbsp;&laquo;ВЫДАЮЩЕЕСЯ КАЧЕСТВО ПОДДЕРЖАННОЙ ОДЕЖДЫ. ВСЕГДА ВОВРЕМЯ&raquo;</h3>
 
