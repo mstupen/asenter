@@ -1,1 +1,1 @@
-This is a agency template
+This is a agency template with Bootstrap
