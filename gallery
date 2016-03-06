@@ -55,7 +55,7 @@
 				<div id="menu" class="clearfix">
 					<ul>
 						<li class="firstm"><a href="http://asenterinvest.com/">Home</a></li>
-						<li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li>
+						<!-- <li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li> -->
 						<li><a href="http://asenterinvest.com/terms">Terms </a></li>
 						<li id="selected"><a href="http://asenterinvest.com/gallery">Gallery</a></li>
 						<li><a href="http://asenterinvest.com/contact-us">Contact us</a></li>
@@ -122,13 +122,12 @@
 
 
 		</div>
+		<footer>
+			<center>Asenter Invest 2015-2016</center>
+			<center>We export to the European Union, Belarus, Russia and Ukraine.</center>
+			<br>
+		</footer>
 	</div>
-
-
-	<script type="text/javascript">
-		Cufon.now();
-	</script>
-
 
 </body>
 

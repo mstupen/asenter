@@ -55,7 +55,7 @@
 				<div id="menu" class="clearfix">
 					<ul>
 						<li class="firstm"><a href="http://asenterinvest.com/">Home</a></li>
-						<li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li>
+						<!-- <li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li> -->
 						<li id="selected"><a href="http://asenterinvest.com/terms">Terms </a></li>
 						<li><a href="http://asenterinvest.com/gallery">Gallery</a></li>
 						<li><a href="http://asenterinvest.com/contact-us">Contact us</a></li>
@@ -67,40 +67,24 @@
 					<div class="events trans-overlay" id="static">
 						<div class="static_inner" id="page_terms">
 							<h1 class="graphic">Terms </h1>
-							<p><strong>PAYMENTS</strong></p>
-
-							<p>50% deposit is required to confirm your order. The final 50% to be paid before loading or on the loading day. All sales are final. We accept bank transfers or cash payments</p>
-
-							<p>&nbsp;</p>
-
-							<p><strong>VAT RULES</strong></p>
-
-							<p>Any sale to a EU company or individual is subject to 20% VAT
-								<br /> (VAT registered EU companies or individuals can claim back VAT)</p>
-
-							<p>Any sale to an EU company or individual is subject to 20% VAT*
-								<br /> (VAT registered EU companies or individuals can claim back VAT)</p>
-
-							<p><u>*VAT is not charged if an EU company can supply a &ldquo;Verified&rdquo; EU VAT number</u>
-								<br /> (Must supply proof of export)</p>
-
-							<p>Any sale to Non-EU Company or individual is NOT subject to VAT
-								<br /> (Must supply proof of export)</p>
-
-							<p>&nbsp;</p>
-
-							<p><strong>ORDERS</strong></p>
-
-							<p>We do not allow customers to select their own goods in person.
-								<br /> You are welcome to come and view the goods. Viewings by appointment only</p>
-
-							<p>&nbsp;</p>
-
-							<p><strong>TRANSPORTATION</strong></p>
-
-							<p>The buyer is responsible for transport arrangements</p>
-
-							<p>&nbsp;</p>
+							<p><strong><center>ORDER</center></strong></p>
+							<p>We do not allow customers to choose the products personally. We invite you to come and inspect the goods. Review made by appointment only.</p>
+							<br>
+							<p><strong><center>TRANSPORTATION</center></strong></p>
+							<p>By request of the buyer we can provide a transport support.</p>
+							<br>
+							<p><strong><center>PAYMENTS</center></strong></p>
+							<p>We accept payment by bank transfer to our bank details:</p>
+							<address>
+							Number of bank account in SWEDBANK <b>EE93 2200 2210 6330 6300</b><br>
+							SWEDBANK AS<br>
+							Liivalaia 8<br>
+							15040 Tallyn, Estonia<br>
+							S.W.I.F.T.: HABAEE2X<br>
+							register code: 10060701<br>
+							VAT number: EE100354546<br>
+							</address>
+							<br>
 						</div>
 					</div>
 					<!--end container_inner-->
@@ -113,6 +97,11 @@
 
 
 		</div>
+		<footer>
+			<center>Asenter Invest 2015-2016</center>
+			<center>We export to the European Union, Belarus, Russia and Ukraine.</center>
+			<br>
+		</footer>
 	</div>
 
 

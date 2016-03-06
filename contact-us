@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
-
-
 	<meta name="google-site-verification" content="kvOMSFeAJaD6F9WHDAC8FXFe7-yWRDeSVg0GZAtcx4g" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Asenter Invest</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-
 	<meta name="keywords" content="We are a modern textile recycling company and exporter of high quality second hand clothing, shoes and household goods." />
 	<meta name="description" content="We are a modern textile recycling company and exporter of high quality second hand clothing, shoes and household goods." />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -56,7 +49,7 @@
 				<div id="menu" class="clearfix">
 					<ul>
 						<li class="firstm"><a href="http://asenterinvest.com/">Home</a></li>
-						<li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li>
+						<!-- <li><a href="http://asenterinvest.com/collection-schemes">Collection schemes</a></li> -->
 						<li><a href="http://asenterinvest.com/terms">Terms </a></li>
 						<li><a href="http://asenterinvest.com/gallery">Gallery</a></li>
 						<li id="selected"><a href="http://asenterinvest.com/contact-us">Contact us</a></li>
@@ -68,7 +61,7 @@
 
 					<div class="events trans-overlay" id="static">
 						<div class="static_inner" id="page_contact-us">
-							<h1 class="graphic">Contact us</h1>
+							<h1 class="graphic"><center>Contact us<center></h1>
 							<!--<script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.5.5/jquery.validate.js"></script>-->
 							<script type="text/javascript">
 								$(document).ready(function() {
@@ -103,31 +96,51 @@
                     	</address>
 
 						<div id="map"></div>
-						<script>
-							function initMap() {
-								var mapDiv = document.getElementById('map');
-								var map = new google.maps.Map(mapDiv, {
-									center: {
-										lat: 59.4378952,
-										lng: 24.7652009
-									},
-									zoom: 18
-								});
-							}
-						</script>
-						<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
-
-
+						<br>
 
 						<address>
-                      <strong>Please write to us</strong><br>
-                      <a href="mailto:asenterinvestou@gmail.com?Subject=Question%20to%20Asenter%20Invest">asenterinvestou@gmail.com</a>
-                    </address>
+                      		<strong>Please write to us</strong><br>
+                      		<a href="mailto:asenterinvestou@gmail.com?Subject=Question%20to%20Asenter%20Invest">asenterinvestou@gmail.com</a>
+                    	</address>
 
-					<p>Please let us know your requirements and we will try our utmost to ensure we meet your demands.&nbsp;
-						To discuss prices, to visit us or for further enquiries please feel free to contact us</p>
+						<p>Please let us know your requirements and we will try our utmost to ensure we meet your demands.&nbsp; To discuss prices, to visit us or for further enquiries.
+							Please feel free to contact us</p>
+						<br>
+						<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+						<script>
+						google.maps.event.addDomListener(window, 'load', init);
 
-					<p>&nbsp;</p>
+						function init() {
+							// Basic options for a simple Google Map
+							// For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+							var mapOptions = {
+								// How zoomed in you want the map to start at (always required)
+								zoom: 17,
+
+								// The latitude and longitude to center the map (always required)
+								center: new google.maps.LatLng(59.4377952, 24.7658007), // New York
+
+								// How you would like to style the map.
+								// This is where you would paste any style found on Snazzy Maps.
+								styles: [{"featureType":"administrative","elementType":"all","stylers":[{"visibility":"on"},{"lightness":33}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2e5d4"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#c5dac6"}]},{"featureType":"poi.park","elementType":"labels","stylers":[{"visibility":"on"},{"lightness":20}]},{"featureType":"road","elementType":"all","stylers":[{"lightness":20}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#c5c6c6"}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#e4d7c6"}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#fbfaf7"}]},{"featureType":"water","elementType":"all","stylers":[{"visibility":"on"},{"color":"#acbcc9"}]}]
+							};
+
+							// Get the HTML DOM element that will contain your map
+							// We are using a div with id="map" seen below in the <body>
+							var mapElement = document.getElementById('map');
+
+							// Create the Google Map using our element and options defined above
+							var map = new google.maps.Map(mapElement, mapOptions);
+
+							// Let's also add a marker while we're at it
+							var marker = new google.maps.Marker({
+								position: new google.maps.LatLng(59.4377352, 24.7653007),
+								map: map,
+								title: 'Аsenter Invest OU'
+							});
+						}
+
+						</script>
 					</div>
 				</div>
 				<!--end container_inner-->
@@ -139,12 +152,12 @@
 
 
 	</div>
+	<footer>
+		<center>Asenter Invest 2015-2016</center>
+		<center>We export to the European Union, Belarus, Russia and Ukraine.</center>
+		<br>
+	</footer>
 	</div>
-
-	<script type="text/javascript">
-		Cufon.now();
-	</script>
-
 
 </body>
 
