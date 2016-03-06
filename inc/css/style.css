@@ -100,10 +100,12 @@ ul#lang_badge ul li {
 body {
     padding: 0px;
     margin: 0px;
-    background: #bdb292 url(/media/elem/bg.jpg) top center repeat-y fixed;
+	box-shadow: inset 0 0 1000px 1px #bdb292;
+    /*background: #bdb292 url(/media/elem/bg.jpg) top center repeat-y fixed;*/
     font-family: Trebuchet MS, Georgia;
     font-size: 18px;
-    color: #000;
+    /*color: #000;*/
+	color: #373f4c;
 }
 #wrapper {
     width: 1019px;
@@ -116,9 +118,15 @@ body {
     margin: 0px auto;
 }
 #logo {
-    margin-top: 10px;
+    padding-top: 10px;
     text-align: center;
-    height: 50;
+}
+#logo img {
+    height: 50px;
+}
+#map {
+  width: 500px;
+  height: 400px;
 }
 #menu {}
 #menu ul {
@@ -138,9 +146,10 @@ body {
 }
 #menu a {
     color: #333;
-    font-size: 13px;
+    font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
+	font-weight: bold;
 }
 #menu a:hover, #menu li#selected a {
     color: #39a2d1;

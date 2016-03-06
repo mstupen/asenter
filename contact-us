@@ -20,8 +20,8 @@
 	<script type="text/javascript" src="/inc/js/jquery.cycle.min.js"></script>
 	<script src="/inc/js/superfish.js" type="text/javascript"></script>
 
-	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.min.css?v=2.1.5" />
-	<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.min.js?v=2.1.5"></script>
+	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.css?v=2.1.5" />
+	<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.js?v=2.1.5"></script>
 
 	<script type="text/javascript" src="/inc/js/fonts.js"></script>
 	<script type="text/javascript" src="/inc/js/core.js"></script>
@@ -40,21 +40,17 @@
 			<a href="/"><span class="flag flag-en"></span> <i class="fa fa-chevron-down"></i></a>
 			<ul>
 				<li><a href="/en"><span class="flag flag-en"></span> English</a></li>
-				<li><a href="/lv"><span class="flag flag-lv"></span> Latvian</a></li>
-				<li><a href="/ro"><span class="flag flag-ro"></span> Romanian</a></li>
-				<li><a href="/pl"><span class="flag flag-pl"></span> Polish</a></li>
+				<li><a href="/ee"><span class="flag flag-ee"></span> Estonian</a></li>
 				<li><a href="/ru"><span class="flag flag-ru"></span> Russian</a></li>
-				<li><a href="/ukr"><span class="flag flag-ukr"></span> Ukrainian</a></li>
 			</ul>
 		</li>
 	</ul>
 
 
-
 	<div id="wrapper">
 		<div id="all">
 			<div id="logo">
-				<a href="http://www.ukclothingcaravan.co.uk"><img src="/media/elem/logo.png" /></a>
+				<a href="http://asenterinvest.com"><img src="/media/elem/logo.png" /></a>
 			</div>
 			<div id="container">
 				<div id="menu" class="clearfix">
@@ -68,13 +64,6 @@
 				</div>
 				<div id="container_inner" class="clearfix">
 					<!--start container_inner-->
-
-
-
-
-
-
-
 
 
 					<div class="events trans-overlay" id="static">
@@ -102,28 +91,43 @@
 							</script>
 
 						</div>
-					<address>
-                      <strong>Аsenter Invest OU</strong><br>
-                      (registry code 12964430) Narva mnt 13,<br>
-                      Kesklinna district, Harju county, 10151<br>
-                      Tallinn city, Estonіya<br>
-					  Banck account number in the SWEDBANK<br>
-					  <b>EE93 2200 2210 6330 6300</b><br>
-					  SWEDBANK AS<br>
-					  Tallinn city, Estonіya<br>
-                      <!-- <abbr title="Phone">P:</abbr> (123) 456-7890 -->
-                    </address>
+						<address>
+	                      <strong>Аsenter Invest OU</strong><br>
+	                      (registry code 12964430) Narva mnt 13,<br>
+	                      Kesklinna district, Harju county, 10151<br>
+	                      Tallinn city, Estonіya<br><br>
+						  Banck account number in the SWEDBANK <b>EE93 2200 2210 6330 6300</b><br>
+						  SWEDBANK AS<br>
+						  Tallinn city, Estonіya<br>
+	                      <!-- <abbr title="Phone">P:</abbr> (123) 456-7890 -->
+                    	</address>
+
+						<div id="map"></div>
+						<script>
+							function initMap() {
+								var mapDiv = document.getElementById('map');
+								var map = new google.maps.Map(mapDiv, {
+									center: {
+										lat: 59.4378952,
+										lng: 24.7652009
+									},
+									zoom: 18
+								});
+							}
+						</script>
+						<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+
+
 
 						<address>
                       <strong>Please write to us</strong><br>
                       <a href="mailto:asenterinvestou@gmail.com?Subject=Question%20to%20Asenter%20Invest">asenterinvestou@gmail.com</a>
                     </address>
 
-						<p>Please let us know your requirements and we will try our utmost to ensure we meet your demands.&nbsp;To discuss prices, to visit us or for further enquiries please feel free to contact us:</p>
+					<p>Please let us know your requirements and we will try our utmost to ensure we meet your demands.&nbsp;
+						To discuss prices, to visit us or for further enquiries please feel free to contact us</p>
 
-						<p><strong>General enquiries</strong></p>
-
-						<p>&nbsp;</p>
+					<p>&nbsp;</p>
 					</div>
 				</div>
 				<!--end container_inner-->

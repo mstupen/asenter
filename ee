@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Asenter Invest</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+	<meta name="keywords" content="We are a modern textile recycling company and exporter of high quality second hand clothing, shoes and household goods." />
+	<meta name="description" content="We are a modern textile recycling company and exporter of high quality second hand clothing, shoes and household goods." />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/inc/js/jquery.cycle.min.js"></script>
+	<script src="/inc/js/superfish.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" type="text/css" href="/inc/js/swipebox/css/swipebox.css" />
+	<script type="text/javascript" src="/inc/js/swipebox/jquery.swipebox.js"></script>
+
+	<script type="text/javascript" src="/inc/js/fonts.js"></script>
+	<script type="text/javascript" src="/inc/js/core.js"></script>
+	<link type="text/css" media="screen" rel="stylesheet" href="/inc/css/style.css" />
+	<!--[if IE]>
+	<script type="text/javascript" src="/inc/js/jquery.corner.js"></script>
+	<script type="text/javascript" src="/inc/js/ie.js"></script>
+	<link type="text/css" media="screen" rel="stylesheet" href="/inc/css/ie.css" />
+	<![endif]-->
+</head>
+
+<body>
+
+	<ul id="lang_badge">
+		<li>
+			<a href="/"><span class="flag flag-ee"></span> <i class="fa fa-chevron-down"></i></a>
+			<ul>
+				<li><a href="/en"><span class="flag flag-en"></span> English</a></li>
+				<li><a href="/ee"><span class="flag flag-ee"></span> Estonian</a></li>
+				<li><a href="/ru"><span class="flag flag-ru"></span> Russian</a></li>
+			</ul>
+		</li>
+	</ul>
+
+
+
+	<div id="wrapper">
+		<div id="all">
+			<div id="logo">
+				<a href="http://asenterinvest.com"><img src="/media/elem/logo.png" style="margin-top: 10px;    height: 55px;" /></a>
+			</div>
+			<div id="container">
+				<div id="container_inner" class="clearfix">
+					<!--start container_inner-->
+
+
+
+
+
+
+					<div id="slideshow">
+						<!--<div id="slideshow_image_descr"></div>-->
+
+						<div class="cs_ss" id="case_study_slideshow">
+							<img src="/inc/img2/media/u/IMG_3.jpg" width="940" height="500" />
+							<img src="/inc/img2/media/u/IMG.jpg" width="940" height="500" />
+
+						</div>
+						<div id="csnav"></div>
+
+
+
+					</div>
+
+					<div id="mid_list" class="clearfix">
+
+					</div>
+
+					<div id="frontpage_article">
+						<h2>Tere Asenter Invest</h2>
+
+						<h3>&ldquo;Tippsaavutused riiete ON alati õigeaegselt&rdquo;</h3>
+
+						<p>&nbsp;</p>
+
+						<p><strong>MEIST</strong></p>
+
+						<p>Asenter Invest on pühendunud töötab sotsiaalselt vastutustundliku ettevõtluse. Oleme kiiresti, millega end ülim viide Euroopa Liidu Tekstiili taaskasutus tööstuses. Tegutseme erinevate rõivaste kogumissüsteeme suunatud suunamine soovimatu riided
+							ELi prügila korduskasutuse eesmärgil.</p>
+						Täna on tunnistatud üheks ELi juhtiva tarnijate kvaliteedi riiete tugeva esinemise Euroopa turul..</p>
+
+						<p>&nbsp;</p>
+
+						<p><strong>Meie ERIALA</strong></p>
+
+						<p>Riietus sisaldab segu Ladies, meesteriided, Kids, jalanõud paarikaupa, Fashion Accessories, Voodipesu, Pehmed mänguasjad, kosmeetika ja tualett-tarbed. Meie ettevõte on spetsialiseerunud Sorteerimata Original riiete ja pudi-padi.</p>
+
+						<p>&nbsp;</p>
+
+						<p><strong>Meie kvaliteet</strong></p>
+
+						<p>Oleme uhked tõeline toote kvaliteeti pakume. Meie kliendid võivad olla kindlad, kvaliteeti meie Sorteerimata Original pidevalt hooldatud kõrgeimatele standarditele. Me eemaldada kõik märg / määrdunud / kahjustatud esemed, et meil täita meie klientide
+							ootusi.</p>
+
+						<div>
+							<p><strong>Sidemed</strong></p>
+							<address>
+							  <strong>Аsenter Invest OÜ</strong><br>
+							  (Äriregistri kood  12964430) Narva mnt 13,<br>
+							  Kesklinna linnaosa, Harju maakond, 10151<br>
+							  Tallinna linn, Estoniya<br>
+							  Banck konto number SWEDBANK<br>
+							  <b>EE93 2200 2210 6330 6300</b><br>
+							  SWEDBANK AS<br>
+							  Tallinn city, Estonіya<br>
+							  <!-- <abbr title="Phone">P:</abbr> (123) 456-7890 -->
+							</address>
+
+							<div id="map"></div>
+							<script>
+								function initMap() {
+									var mapDiv = document.getElementById('map');
+									var map = new google.maps.Map(mapDiv, {
+										center: {
+											lat: 59.4378952,
+											lng: 24.7652009
+										},
+										zoom: 18
+									});
+								}
+							</script>
+							<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+							<br>
+
+
+							<address>
+							  <strong>Palun kirjutage meile </strong><br>
+							  <a href="mailto:asenterinvestou@gmail.com">asenterinvestou@gmail.com</a>
+							</address>
+
+							<p>Palun andke meile teada oma nõuded ja me püüame oma parima, et tagada meie rahuldada oma vajadusi. Et arutada hinnad, külla või edasiseks uurimiseks palun võtke meiega ühendust</p>
+						</div>
+					</div>
+
+
+					<!--end container_inner-->
+
+
+				</div>
+
+			</div>
+		</div>
+
+		<script type="text/javascript">
+			Cufon.now();
+		</script>
+
+</body>
+
+</html>
