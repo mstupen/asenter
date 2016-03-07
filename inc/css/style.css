@@ -101,7 +101,7 @@ body {
     padding: 0px;
     margin: 0px;
 	box-shadow: inset 0 0 1000px 1px #bdb292;
-    /*background: #bdb292 url(/media/elem/bg.jpg) top center repeat-y fixed;*/
+    /*background: #bdb292 url(/img/bg.jpg) top center repeat-y fixed;*/
     font-family: Trebuchet MS, Georgia;
     font-size: 18px;
     /*color: #000;*/
@@ -110,7 +110,7 @@ body {
 #wrapper {
     width: 1019px;
     margin: 0px auto;
-    /*background:url(/media/elem/bgshadow.png) bottom center no-repeat;*/
+    /*background:url(/img/bgshadow.png) bottom center no-repeat;*/
     padding-bottom: 10px;
 }
 #all {
@@ -118,7 +118,7 @@ body {
     margin: 0px auto;
 }
 #logo {
-    padding-top: 10px;
+    padding-top: 8px;
     text-align: center;
 }
 #logo img {
@@ -139,10 +139,9 @@ body {
     font-size: 14px;
     list-style: none;
     display: inline-block;
-    padding: 15px 11px;
+    padding: 13px;
     /*margin-left:25px;*/
-    margin: 0px 0 10px 0;
-    border-top: 10px #e0dea0 solid;
+    border-top: 10px rgba(189, 178, 146, 0.61) solid;
 }
 #menu a {
     color: #333;
@@ -172,7 +171,7 @@ body {
     color: #8c151e
 }
 #container {
-    /*background:#FFF url(/media/elem/bg1.jpg) center center;*/
+    /*background:#FFF url(/img/bg1.jpg) center center;*/
     padding-bottom: 1px;
     margin-bottom: 20px;
     -webkit-background-size: cover;
@@ -208,7 +207,7 @@ body {
 }
 #f_buttons {
     margin: 10px 0px 50px 0px;
-    background: url(/media/elem/bgfb.png) 0 0 repeat;
+    background: url(/img/bgfb.png) 0 0 repeat;
 }
 #f_buttons ul {
     padding: 10px 12px 14px 0px;
@@ -253,7 +252,7 @@ body {
     padding-left: 0px !important;
 }
 .arrow {
-    background-image: url(/media/elem/bgarrow.png);
+    background-image: url(/img/bgarrow.png);
     background-repeat: no-repeat;
     background-position: top right;
     height: 31px;
@@ -273,7 +272,7 @@ body {
     height: 240px;
     z-index: 50;
     width: 260px;
-    background-image: url(/media/elem/bg80.png);
+    background-image: url(/img/bg80.png);
     color: #fff;
 }
 #slideshow_image_descr h2 {
@@ -302,11 +301,11 @@ body {
     display: inline-block;
     width: 14px;
     height: 14px;
-    background: url('/media/elem/dot_grey.png') 0 0 no-repeat transparent;
+    background: url('img/dot_grey.png') 0 0 no-repeat transparent;
     margin: 0px 10px 0px 0px;
 }
 #csnav a.activeSlide {
-    background-image: url('/media/elem/dot_white.png');
+    background-image: url('img/dot_white.png');
 }
 #csnav span {
     cursor: pointer
@@ -333,7 +332,7 @@ a.graphic {
 #contact_form .input {
     float: right;
     width: 55%;
-    background: #bdb292 url(/media/elem/bg.jpg);
+    background: #bdb292 url(/img/bg.jpg);
     margin-bottom: 5px;
 }
 #contact_form p {
@@ -398,13 +397,13 @@ ul.spsub li {}
     height: 242px;
 }
 .gmap.map0 span {
-    background: transparent url(/media/elem/bg_map1.png) no-repeat;
+    background: transparent url(/img/bg_map1.png) no-repeat;
 }
 .gmap.map1 span {
-    background: transparent url(/media/elem/bg_map2.png) no-repeat;
+    background: transparent url(/img/bg_map2.png) no-repeat;
 }
 .gmap.map2 span {
-    background: transparent url(/media/elem/bg_map3.png) no-repeat;
+    background: transparent url(/img/bg_map3.png) no-repeat;
 }
 .static_inner {
     margin: 20px 60px
@@ -420,7 +419,7 @@ ul.spsub li {}
     display: inline-block;
     width: 32px;
     height: 32px;
-    background: url(/media/elem/flags.png) no-repeat
+    background: url(/img/flags.png) no-repeat
 }
 .flag.flag-en {
     background-position: -288px -128px
