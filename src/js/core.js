@@ -20,7 +20,7 @@ $(document).ready(function() {
     // $('#page_gallery img').each(function() {
     //     var t = $(this).attr('data-src');
     //     console.log(t);
-    //     n = t.replace("http://asenterinvest.com/", "http://asenterinvest.com/inc/i01/");
+    //     n = t.replace("http://asenterinvest.com/", "http://asenterinvest.com/src/i01/");
     //     $(this).attr('src', n);
     // });
 
