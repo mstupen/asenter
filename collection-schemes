@@ -23,9 +23,26 @@
 	<link rel="stylesheet" type="text/css" href="/src/js/swipebox/css/swipebox.css?v=2.1.5" />
 	<script type="text/javascript" src="/src/js/swipebox/jquery.swipebox.js?v=2.1.5"></script>
 
-	<script type="text/javascript" src="/src/js/fonts.js"></script>
+
 	<script type="text/javascript" src="/src/js/core.js"></script>
 	<link type="text/css" media="screen" rel="stylesheet" href="/src/css/style.css" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/src/fav/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/src/fav/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/src/fav/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/src/fav/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/src/fav/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/src/fav/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/src/fav/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/src/fav/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/src/fav/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/src/fav/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/src/fav/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/src/fav/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/src/fav/favicon-16x16.png">
+	<link rel="manifest" href="/src/fav/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/src/fav/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
 	<!--[if IE]>
 	<script type="text/javascript" src="/src/js/jquery.corner.js"></script>
 	<script type="text/javascript" src="/src/js/ie.js"></script>
@@ -39,7 +56,7 @@
 		<li>
 			<a href="/"><span class="flag flag-en"></span> <i class="fa fa-chevron-down"></i></a>
 			<ul>
-				<li><a href="/en"><span class="flag flag-en"></span> English</a></li>
+				<li><a href="/"><span class="flag flag-en"></span> English</a></li>
 				<li><a href="/ee"><span class="flag flag-ee"></span> Estonian</a></li>
 				<li><a href="/ru"><span class="flag flag-ru"></span> Russian</a></li>
 			</ul>
