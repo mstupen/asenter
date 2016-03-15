@@ -114,7 +114,7 @@ body {
     width: 1019px;
     margin: 0px auto;
     /*background:url(/img/bgshadow.png) bottom center no-repeat;*/
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 #all {
     width: 965px;
@@ -322,36 +322,6 @@ body {
 a.graphic {
     text-decoration: none;
 }
-#contact_form {
-    width: 320px;
-    padding: 20px;
-    background: #f2f2f2;
-    -moz-border-radius: 9px;
-    -webkit-border-radius: 9px;
-    float: right;
-    margin: 0px 40px 40px 40px;
-}
-#contact_form label {
-    float: left;
-    width: 40%;
-}
-#contact_form .input {
-    float: right;
-    width: 55%;
-    background: #bdb292 url(/img/bg.jpg);
-    margin-bottom: 5px;
-}
-#contact_form p {
-    display: block;
-    clear: both;
-}
-#contact_form .textarea {
-    height: 90px;
-}
-#contact_form .error {
-    color: red;
-    font-size: 12px;
-}
 .sub_products_bar {
     border-top: 10px #6bcaea solid;
     width: 670px;
@@ -480,15 +450,6 @@ ul.spsub li {}
     }
     #menu a {
         font-size: 18px;
-    }
-}
-@media only screen and (max-width:450px) {
-    #contact_form {
-        float: none;
-        width: 93%;
-        padding: 3%;
-        margin: 0 0 40px 0;
-        font-size: 14px;
     }
 }
 @media only screen and (max-width:380px) {
