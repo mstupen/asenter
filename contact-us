@@ -77,46 +77,26 @@
 					<div class="events trans-overlay" id="static">
 						<div class="static_inner" id="page_contact-us">
 							<h1 class="graphic"><center>Contact us<center></h1>
-							<!--<script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.5.5/jquery.validate.js"></script>-->
-							<script type="text/javascript">
-								$(document).ready(function() {
-									$("#contact_form").validate({
-										rules: {
-											"person_name": "required",
-											"message": "required",
-											"email": {
-												required: true,
-												email: true
-											}
-										},
-										messages: {
-											"person_name": "Your name is required",
-											"message": "Message is requred",
-											"email": "Email is required"
-										}
-									});
-								});
-							</script>
 
 						</div>
 						<address>
-	                      <strong>Аsenter Invest OÜ</strong><br>
-	                      (registry code 12964430) Narva mnt 13,<br>
-	                      Kesklinna district, Harju county, 10151<br>
-	                      Tallinn city, Estonіya<br><br>
+              <strong>Аsenter Invest OÜ</strong><br>
+              (registry code 12964430) Narva mnt 13,<br>
+              Kesklinna district, Harju county, 10151<br>
+              Tallinn city, Estonіya<br><br>
 						  Banck account number in the SWEDBANK <b>EE93 2200 2210 6330 6300</b><br>
 						  SWEDBANK AS<br>
 						  Tallinn city, Estonіya<br>
-	                      <!-- <abbr title="Phone">P:</abbr> (123) 456-7890 -->
-                    	</address>
+              <!-- <abbr title="Phone">P:</abbr> (123) 456-7890 -->
+          	</address>
 
 						<div id="map"></div>
 						<br>
 
 						<address>
-                      		<strong>Please write to us</strong><br>
-                      		<a href="mailto:asenterinvestou@gmail.com?Subject=Question%20to%20Asenter%20Invest">asenterinvestou@gmail.com</a>
-                    	</address>
+            		<strong>Please write to us</strong><br>
+            		<a href="mailto:asenterinvestou@gmail.com?Subject=Question%20to%20Asenter%20Invest">asenterinvestou@gmail.com</a>
+          	</address>
 
 						<p>Please let us know your requirements and we will try our utmost to ensure we meet your demands.&nbsp; To discuss prices, to visit us or for further enquiries.
 							Please feel free to contact us</p>
